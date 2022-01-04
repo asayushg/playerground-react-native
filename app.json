@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "playerground",
+    "slug": "playerground",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "playerground"
+}
